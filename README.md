@@ -4,14 +4,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushnema704&label=Profile%20views&color=0e75b6&style=flat" alt="ayushnema704" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushnema704" alt="ayushnema704" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/na" target="blank"><img src="https://img.shields.io/twitter/follow/na?logo=twitter&style=for-the-badge" alt="na" /></a> </p>
+<!-----
+<p align="left"> <a href="https://twitter.com/na" target="blank"><img src="https://img.shields.io/twitter/follow/na?logo=twitter&style=for-the-badge" alt="na" /></a> </p>--->
 
 - 🔭 I’m currently working on **Raahi - a Women Safety App**
 
 - 🌱 I’m currently learning **AI, Flutter apps and automation tools**
 
-- 👨‍💻 All of my projects are available at [jmsxsoamkcox;asjocjkop](jmsxsoamkcox;asjocjkop)
+<!------ 👨‍💻 All of my projects are available at [jmsxsoamkcox;asjocjkop](jmsxsoamkcox;asjocjkop)---->
 
 - 📫 How to reach me **https://www.linkedin.com/in/ayush-nema-jec/**
 
