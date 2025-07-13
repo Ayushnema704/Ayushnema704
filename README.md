@@ -14,11 +14,10 @@
 <!------ 👨‍💻 All of my projects are available at [jmsxsoamkcox;asjocjkop](jmsxsoamkcox;asjocjkop)---->
 
 - 📫 How to reach me **https://www.linkedin.com/in/ayush-nema-jec/**
-
+<!----
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!-- Twitter
